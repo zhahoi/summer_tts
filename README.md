@@ -84,7 +84,7 @@ $ catkin_make  //编译
 
   
 
-![输出1](C:\Users\HIT-HAYES\Desktop\输出1.png)
+![输出1](https://github.com/zhahoi/summer_tts/blob/main/docs/%E8%BE%93%E5%87%BA1.png)
 
 - 通过rostopic pub手动发布消息来让其播报(**新开启一个终端**)
 
@@ -95,9 +95,9 @@ $ catkin_make  //编译
 
   输入以上指令后，你会听到女声播报”**你好，世界**“。
 
-  ![输出2](C:\Users\HIT-HAYES\Desktop\输出2.png)
+  ![输出2](https://github.com/zhahoi/summer_tts/blob/main/docs/%E8%BE%93%E5%87%BA2.png)
 
-![输出3](C:\Users\HIT-HAYES\Desktop\输出3.png)
+![输出3](https://github.com/zhahoi/summer_tts/blob/main/docs/%E8%BE%93%E5%87%BA3.png)
 
 
 
